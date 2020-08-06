@@ -10,11 +10,11 @@ The features are summarized blow:
 	+ Use dice loss (optimize IoU of segmentation) rather than balanced cross entropy
 	+ Use linear learning rate decay rather than staged learning rate decay
 
-Thanks for the author's ([@zxytim](https://github.com/zxytim)) help!
-Please cite his [paper](https://arxiv.org/abs/1704.03155v2) if you find this useful.
+Thanks to the author ([@argman](https://github.com/argman))
+Original [paper](https://arxiv.org/abs/1704.03155v2) if you find this useful.
 
 ### Download
-1. Models trained on ICDAR 2013 (training set) + ICDAR 2015 (training set): [BaiduYun link](http://pan.baidu.com/s/1jHWDrYQ) [GoogleDrive](https://drive.google.com/open?id=0B3APw5BZJ67ETHNPaU9xUkVoV0U)
+1. Models trained on ICDAR 2013 (training set) + ICDAR 2015 (training set): [GoogleDrive](https://drive.google.com/open?id=0B3APw5BZJ67ETHNPaU9xUkVoV0U)
 2. Resnet V1 50 provided by tensorflow slim: [slim resnet v1 50](http://download.tensorflow.org/models/resnet_v1_50_2016_08_28.tar.gz)
 
 ### Test
