@@ -1,0 +1,1 @@
+python eval.py --test_data_path=demo_images/ --gpu_list=0 --checkpoint_path=model/east_icdar2015_resnet_v1_50_rbox --output_dir=output/
