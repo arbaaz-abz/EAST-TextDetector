@@ -19,8 +19,8 @@ Original [paper](https://arxiv.org/abs/1704.03155v2) if you find this useful.
 
 ### Test
 ```
-python eval.py --test_data_path=/tmp/images/ --gpu_list=0 --checkpoint_path=/tmp/east_icdar2015_resnet_v1_50_rbox/ \
---output_dir=/tmp/
+python eval.py --test_data_path=demo_images/ --gpu_list=0 --checkpoint_path=model/east_icdar2015_resnet_v1_50_rbox/ \
+--output_dir=output/
 ```
 
 a text file will be then written to the output path.
